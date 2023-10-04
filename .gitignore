@@ -1,0 +1,6 @@
+# Project exclude paths
+/models/Activity.js
+/models/UserActivity.js
+/services/EcoCalculatorService.js
+/utils/inquirerHelper.js
+/cli.js
